@@ -67,7 +67,7 @@ To get started with this project, follow these steps:
    Execute the following command to enable Tailwind to watch for changes and generate styles:
 
    ```bash
-   ./../Tailwind/tailwindcss-windows-x64.exe -i ./Styles/tailwind.css -o ./wwwroot/tailwind.css -watch
+   ./../Tailwind/tailwindcss-windows-x64.exe -i ./Styles/tailwind.css -o ./wwwroot/tailwind.css --watch
    ```
 
 8. **Run the project:**
