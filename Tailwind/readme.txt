@@ -1,0 +1,1 @@
+You can download the TaiwindCSS CLI at https://github.com/tailwindlabs/tailwindcss/releases
